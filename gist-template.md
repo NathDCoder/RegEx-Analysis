@@ -26,6 +26,7 @@ Examples:
 
 ## Regex Components
 Regular Expressions also come with various components.
+These components provide us with more flexible pattern matching.
 ### Anchors
 Anchors alow you to match a position before or after characters. 
  ^ – The caret anchor matches the beginning of the text.
